@@ -22,7 +22,7 @@ const Hero = () => {
               className="text-white mb-7"
             >
               A taste of local <br />
-              falvours
+              flavours
             </motion.h1>
             <motion.p
               variants={fadeIn("down", 0.4)}
