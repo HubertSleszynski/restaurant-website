@@ -50,7 +50,7 @@ const Hero = () => {
               whileInView={"show"}
               viewport={{ once: true, amount: 0.4 }}
             >
-              <Button>Lest's eat</Button>
+              <Button>Let's eat</Button>
             </motion.div>
           </div>
           <motion.div
