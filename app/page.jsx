@@ -4,7 +4,6 @@ import Menu from "@/components/Menu";
 import StyleGuide from "@/components/StyleGuide";
 import Reservation from "@/components/Reservation";
 import About from "@/components/About";
-import Map from "@/components/Map";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -16,7 +15,6 @@ export default function Home() {
       <Menu />
       <Reservation />
       <About />
-      <Map />
       <Footer />
     </main>
   );

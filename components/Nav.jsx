@@ -18,11 +18,6 @@ const links = [
     name: "about",
     offset: -150,
   },
-  {
-    path: "contact",
-    name: "contact",
-    offset: 0,
-  },
 ];
 
 const Nav = ({ containerStyles, linkStyles }) => {

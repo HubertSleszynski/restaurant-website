@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { RiMenu2Line, RiHomeFill } from "react-icons/ri";
 import { IoCloseOutline } from "react-icons/io5";
 import { BiSolidFoodMenu } from "react-icons/bi";
-import { FaUsers, FaEnvelope } from "react-icons/fa";
+import { FaUsers } from "react-icons/fa";
 
 import { Link as ScrollLink } from "react-scroll";
 import Image from "next/image";
@@ -29,12 +29,6 @@ const links = [
     path: "about",
     name: "about",
     offset: -50,
-  },
-  {
-    icon: <FaEnvelope />,
-    path: "contact",
-    name: "contact",
-    offset: 0,
   },
 ];
 
