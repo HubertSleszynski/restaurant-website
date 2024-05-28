@@ -1,18 +1,18 @@
 # W'Food
 
-Description
+A sleek and modern website developed for W'food, an Asian cuisine restaurant, utilizing Next.js for optimal performance and Tailwind CSS for a responsive, elegant design. Framer Motion was integrated to add smooth, interactive animations, creating a single-landing page that effectively showcases the restaurant's offerings and encourages reservations.
 
 ## Demo
 
-LIVE: DEMO
+LIVE: [W'Food](https://hrs-wfood2024.netlify.app/)
 
 ## Screenshot
 
-IMG
+<img src="/public/hrs-wfood2024.netlify.app_full.png" width="1000">
 
 ## Tech Stack
 
-Yarn Vite React Next Tailwind
+Npm React Next Tailwind Framer Motion
 
 ## Author
 
@@ -23,10 +23,3 @@ Portfolio: https://hrs-dev.netlify.app/
 Linkedin: https://www.linkedin.com/in/hubertsleszynski/
 
 Github: https://github.com/HubertSleszynski
-
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
